@@ -8,6 +8,12 @@
   /* width: 100%; */
 }
 
+.section-title {
+  font-size: 2.8rem;
+  color: #131313;
+  font-weight: 700;
+}
+
 .btn-primary {
   border-radius: 8px;
   background: #ff900e;
@@ -36,11 +42,6 @@ nav {
   align-items: center;
 }
 
-.nav-title {
-  font-size: 2.8rem;
-  color: #131313;
-  font-weight: 700;
-}
 
 nav ul {
   display: flex;
